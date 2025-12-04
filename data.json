@@ -1,0 +1,12 @@
+[
+  {"id": 1, "name": "Summer Sale", "status": "Active", "clicks": 150, "cost": 45.99, "impressions": 1000},
+  {"id": 2, "name": "Black Friday", "status": "Paused", "clicks": 320, "cost": 89.50, "impressions": 2500},
+  {"id": 3, "name": "Holiday Deals", "status": "Active", "clicks": 210, "cost": 59.20, "impressions": 1800},
+  {"id": 4, "name": "New Year Blast", "status": "Active", "clicks": 95, "cost": 30.10, "impressions": 900},
+  {"id": 5, "name": "Clearance Sale", "status": "Paused", "clicks": 410, "cost": 112.75, "impressions": 3200},
+  {"id": 6, "name": "Diwali Dhamaka", "status": "Active", "clicks": 500, "cost": 140.00, "impressions": 4500},
+  {"id": 7, "name": "Weekend Promo", "status": "Active", "clicks": 120, "cost": 35.60, "impressions": 1100},
+  {"id": 8, "name": "Flash Sale", "status": "Paused", "clicks": 260, "cost": 70.20, "impressions": 2000},
+  {"id": 9, "name": "Monsoon Mega", "status": "Active", "clicks": 330, "cost": 98.90, "impressions": 2700},
+  {"id": 10, "name": "Valentine Special", "status": "Active", "clicks": 175, "cost": 48.50, "impressions": 1500}
+]
